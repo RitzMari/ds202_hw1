@@ -1,0 +1,16 @@
+---
+title: 'Lab #1'
+author: "Aaron Hanrahan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Partner: Ritvik Maripally (GitHub: RitzMari)
+
+His most recent commit (bb0b320) was an initial commit adding the homework file.
+
+I encountered the error "File BI.jpg not found in resource path"
+
+Slight difficulty was being able to see invitation to repo, had to manually send link.
